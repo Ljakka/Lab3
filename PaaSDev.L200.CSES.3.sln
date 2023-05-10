@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "PaaSDev.L200.CSES.3", "PaaSDev.L200.CSES.3\PaaSDev.L200.CSES.3.ccproj", "{895E5FD1-A662-4EE1-A614-9CA23D1CB90B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebRole1", "WebRole1\WebRole1.csproj", "{F810483F-2195-4A13-85D8-117DEC3D3414}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{895E5FD1-A662-4EE1-A614-9CA23D1CB90B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{895E5FD1-A662-4EE1-A614-9CA23D1CB90B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{895E5FD1-A662-4EE1-A614-9CA23D1CB90B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{895E5FD1-A662-4EE1-A614-9CA23D1CB90B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F810483F-2195-4A13-85D8-117DEC3D3414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F810483F-2195-4A13-85D8-117DEC3D3414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F810483F-2195-4A13-85D8-117DEC3D3414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F810483F-2195-4A13-85D8-117DEC3D3414}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F7ACD76-C2D0-4BE1-A33D-AA0A71755243}
+	EndGlobalSection
+EndGlobal
